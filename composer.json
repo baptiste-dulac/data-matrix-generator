@@ -1,0 +1,13 @@
+{
+    "name": "dulac/datamatrix-bulk-generator",
+    "type": "project",
+    "require": {
+        "jucksearm/php-barcode": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Baptiste Dulac",
+            "email": "dulacbaptiste@gmail.com"
+        }
+    ]
+}
